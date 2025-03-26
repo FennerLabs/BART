@@ -1,2 +1,5 @@
+![Repo Icon](https://github.com/FennerLabs/BART/blob/main/Screenshot%202025-03-26%20130811.png)
+
 # BART - BiotransformAtion Reporting Tool
-BiotransformAtion Reporting Tool - version controlled spreadsheet template for reporting chemical contaminant biotransformation data
+
+Version controlled spreadsheet template for reporting chemical contaminant biotransformation data.
