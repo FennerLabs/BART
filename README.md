@@ -5,7 +5,7 @@ Version controlled spreadsheet template for reporting chemical contaminant biotr
 ![image](https://github.com/user-attachments/assets/216bb067-1ec6-4327-b2a5-fc6bab2dce39)
 
 ## Why do we need this tool?
-There is a large amount of experimental data available on chemical contaminant biotransformations in the environment, but most of this data is stored in an inaccessible, non machine-readable format (e.g. behind paywalls, in PDFs). We aim to fix this by encouraging researchers to share their data in an open source, standardized format that can be easily used to upload the data into a open-source, freely available online software (e.g. [enviPath](https://envipath.org/)).
+There is a large amount of experimental data available on chemical contaminant biotransformations in the environment, but most of this data is stored in an inaccessible, non machine-readable format (e.g. behind paywalls, in PDFs). We aim to fix this by encouraging researchers to share their data in an open source, standardized format that can be easily used to upload the data into open-source, freely available online software (e.g. [enviPath](https://envipath.org/)).
 
 ## About the template
 This repository contains an empty version of the BiotransformAtion Reporting Tool (BART), and a filled-out version with data from the publication ([10.1021/acs.est.3c05506](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05506)) as an example.
