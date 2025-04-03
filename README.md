@@ -16,7 +16,7 @@ Filled-out Example: https://github.com/FennerLabs/BART/blob/main/BART_FANG_2024_
 
 ## Getting started
 
-If you are researching chemical contaminant biotransformations and you wish to communicate your results in a FAIR, machine-readable, and standardized format, please submit a filled-out version of BART in the supporting information of your submitted manuscript.
+If you are researching chemical contaminant biotransformations and you wish to communicate your results in a FAIR, machine-readable, and standardized format, please include a filled-out version of BART in the supporting information of your submitted manuscript or email it to stephanie.rich@uzh.ch.
 
 The template contains multiple tabs, each of which are described below. There should be one template for each biotransformation pathway you wish to report.
 
@@ -34,9 +34,12 @@ The Connectivity tab provides a tablular format for describing directional relat
 ### Scenarios
 Scnarios contain information on the environmental compartment in which the biotransformation pathway was measured. There are four types of Scenario tabs in this template. The Scenario_Sludge, Scenario_Soil, and Scenario_Water-Sediment tabs contain tables of specific parameters relevant for each type of environmental compartment. The Scenario_General tab contains all possible reportable parameters, and can be used to describe environmental compartments that do not fit into the Sludge, Soil, or Water-Sediment categories. These tables can help to guide data collection even before conducting biotransformation experiments.
 
+It is important to fill in the table in the left top corner with a unique scenario name in the "Entry" column. This is especially relevant if your pathway has multiple scenarios (see [FAQ](https://github.com/FennerLabs/BART/wiki/FAQ#what-if-i-have-multiple-scenarios-for-one-pathway)).
+
 ### Kinetics_Confidence
+The Kinetics_Confindence tab is designated for reporting parameters that are specific to individual compounds in a pathway. This includes rate constants, half-lives, detection [confidence levels](https://pubs.acs.org/doi/full/10.1021/es5002105) (also for [PFAS](https://pubs.acs.org/doi/10.1021/acs.estlett.2c00206)) and if the compound is included in the pathway as a proposed intermediate. In the Scenario column of the Kinetics_Confidence tab, it is important to enter the same unique scenario name that was used for your scenario entry such that the compound specific parameters will be associated with the correct scenario. 
 
 ## Special Cases
-If your experimental design is not well represented by the template format, please visit the FAQ to see if we have a solution.
+If your experimental design is not well represented by the template format, please visit the [FAQ](https://github.com/FennerLabs/BART/wiki/FAQ#what-if-i-have-multiple-scenarios-for-one-pathway) to see if we have a solution.
 
 Otherwise, feel free to start a discussion thread and we will work to find a way to show your data.
