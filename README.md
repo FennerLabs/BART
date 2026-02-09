@@ -16,7 +16,7 @@ A filled-out version of the BART template with data from the publication ([10.10
 
 ## Getting started
 
-If you are researching chemical contaminant biotransformations and you wish to communicate your results in a FAIR, machine-readable, and standardized format, please include a filled-out version of BART in the supporting information of your submitted manuscript or email it to stephanie.rich@uzh.ch.
+If you are researching chemical contaminant biotransformations and you wish to communicate your results in a FAIR, machine-readable, and standardized format, you can share this information by including a filled-out version of BART in the supporting information of your submitted manuscript and/or uploading completed BART files to a [Zenodo](https://zenodo.org/) repository and linking the repository at the enviPath community forum page (https://community.envipath.org/t/bart-data-submission/92).
 
 The template contains multiple tabs, each of which are described below. There should be one template for each biotransformation pathway you wish to report.
 
