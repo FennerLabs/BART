@@ -8,11 +8,11 @@ Version controlled spreadsheet template for reporting chemical contaminant biotr
 There is a large amount of experimental data available on chemical contaminant biotransformations in the environment, but most of this data is stored in an inaccessible, non machine-readable format (e.g. behind paywalls, in PDFs). We aim to fix this by encouraging researchers to share their data in an open source, standardized format that can be easily used to upload the data into open-source, freely available online software (e.g. [enviPath](https://envipath.org/)).
 
 ## Download the tool here
-[Download Biotransformation Reporting Tool (BART)](https://raw.githubusercontent.com/FennerLabs/BART/main/BART_AUTHOR_YEAR_PathwayName_Template.xlsx)
+[Download Biotransformation Reporting Tool (BART)](https://github.com/FennerLabs/BART/blob/main/AUTHOR_YEAR_PathwayName_Template.xlsx)
 
-A filled-out version of the BART template with data from the publication ([10.1021/acs.est.3c05506](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05506)) is provded below as an example.
+A filled-out version of the BART template with some data from the publication from Geng & Helbling, 2026 ([10.1021/acs.est.5c15547](https://pubs.acs.org/esthag/article-abstract/60/5/4334/5082481/Dominant-Pathways-and-Key-Intermediates-in-the?redirectedFrom=fulltext)) is provided below as an example.
 
-[Download Filled-Out Example](https://raw.githubusercontent.com/FennerLabs/BART/main/BART_FANG_2024_6-2FTNO_Example.xlsx)
+[Download Filled-Out Example](https://github.com/FennerLabs/BART/blob/main/Geng_Helbling_2026_FBSA_example.xlsx)
 
 ## Getting started
 
